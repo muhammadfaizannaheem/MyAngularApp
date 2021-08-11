@@ -1,0 +1,23 @@
+.container-fluid {
+    text-align: center;
+    background-color: rgb(89, 60, 214);
+    color: white;
+    padding: 1rem;
+}
+
+.container-fluid h1 {
+    text-align: center;
+    color: white;
+    margin-top: 1rem;
+}
+
+.paragraph {
+    text-align: center;
+    padding-top: 1rem;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    margin-top: 10rem;
+}
