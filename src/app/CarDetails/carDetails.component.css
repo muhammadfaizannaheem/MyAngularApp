@@ -1,0 +1,16 @@
+div {
+    background: violet;
+    text-align: center;
+    padding: 4rem;
+}
+
+.h2 {
+    text-align: center;
+    padding: 1rem;
+}
+
+h3 {
+    color: red;
+    background: yellow;
+    padding: 1rem;
+}
