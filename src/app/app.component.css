@@ -1,14 +1,12 @@
-.container-fluid {
+.header {
     text-align: center;
     background-color: rgb(89, 60, 214);
     color: white;
     padding: 1rem;
 }
 
-.container-fluid h1 {
-    text-align: center;
+.header h1 {
     color: white;
-    margin-top: 1rem;
 }
 
 .paragraph {
@@ -16,8 +14,18 @@
     padding-top: 1rem;
 }
 
+.row {
+    margin-top: 4rem;
+}
+
+.col2 {
+    background: rgb(143, 136, 212);
+    padding: 2.5rem;
+    color: yellow;
+}
+
 h1 {
     text-align: center;
     color: red;
-    margin-top: 5rem;
+    margin-top: rem;
 }
