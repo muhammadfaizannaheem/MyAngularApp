@@ -20,7 +20,7 @@
 
 .col2 {
     background: rgb(143, 136, 212);
-    padding: 2.5rem;
+    padding: 3.9rem;
     color: yellow;
 }
 
@@ -28,4 +28,8 @@ h1 {
     text-align: center;
     color: red;
     margin-top: rem;
+}
+
+.footer {
+    margin-top: 3rem;
 }
