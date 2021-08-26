@@ -6,5 +6,7 @@ import { Component } from "@angular/core";
     styleUrls: ['./carDetails.component.css']
 })
 export class CarDetailsComponent{
-
+    carNumber : string = "JT-327";
+    carModel : string = "2005";
+    carPrice : string= "15,50,000";
 }
